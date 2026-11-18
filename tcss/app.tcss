@@ -1,0 +1,36 @@
+Container {
+    border: round orange;
+
+}
+
+.explorer {
+    width: 25;
+}
+
+.logs {
+    height: 10;
+}
+
+.page {
+    width: 1fr;
+    height: 1fr;
+}
+
+.horizontal-separator {
+    width: 1;
+}
+
+#discussion {
+    overflow-y: auto;
+    height: 1fr;
+}
+
+.userMessage {
+    max-width: 50;
+    height: auto;
+}
+
+.modelMessage {
+    max-width: 50;
+    height: auto;
+}
